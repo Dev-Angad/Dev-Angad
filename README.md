@@ -191,10 +191,17 @@ A Minecraft Bedrock crafting and recipe project featuring:
 </p>
 
 ---
-<br>
-<br>
+<br> 
 
 <div align="center">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+--- 
+
+<br>
+<br>
 
 ### ⭐ Thanks for visiting my profile!
 
